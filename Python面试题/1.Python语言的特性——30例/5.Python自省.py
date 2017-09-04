@@ -1,0 +1,11 @@
+#coding=utf-8
+'''
+5.Python自省
+这个也是python彪悍的特性.
+自省就是面向对象的语言所写的程序在运行时,所能知道对象的类型.简单一句就是运行时能够获得对象的类型.比如
+type(),
+dir(),
+getattr(),
+hasattr(),
+isinstance().
+'''
