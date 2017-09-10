@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="832ee148-6c3c-4f50-b073-24a007344616" name="Default" comment="" />
+    <list default="true" id="832ee148-6c3c-4f50-b073-24a007344616" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proxy/xici.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,92 +16,63 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/CrawlerDemo$test9_opener.coverage" NAME="test9_opener Coverage Results" MODIFIED="1503498183803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$test10_ProxyHandler.coverage" NAME="test10_ProxyHandler Coverage Results" MODIFIED="1503548495051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$7Python.coverage" NAME="7Python中单下划线和双下划线 Coverage Results" MODIFIED="1503892247472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/1.Python语言的特性——30例" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$28_Python23.coverage" NAME="28.Python2和3的区别 Coverage Results" MODIFIED="1503805957714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/Python语言的特性_30例" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1503492772359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$19_.coverage" NAME="19 两个字符串是否是变位词 Coverage Results" MODIFIED="1503842578748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/7.编程题——22例" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$test16_renren_cookie.coverage" NAME="test16_renren_cookie Coverage Results" MODIFIED="1503568746589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$10_.coverage" NAME="10 二分查找 Coverage Results" MODIFIED="1503842103243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/7.编程题——22例" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$23_Python.coverage" NAME="23.Python里的拷贝 Coverage Results" MODIFIED="1503801589629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/Python语言的特性_30例" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1503496565722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$test4_get.coverage" NAME="test4_get Coverage Results" MODIFIED="1503493147733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$re_sub.coverage" NAME="re_sub Coverage Results" MODIFIED="1503627536750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reDemo" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$re_finditer.coverage" NAME="re_finditer Coverage Results" MODIFIED="1503627344721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reDemo" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$21_lambda.coverage" NAME="21.lambda函数 Coverage Results" MODIFIED="1503800496646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/Python语言的特性_30例" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$request_addheader.coverage" NAME="request_addheader Coverage Results" MODIFIED="1503570556434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requestdemo" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$3__staticmethod_classmethod.coverage" NAME="3.@staticmethod和@classmethod Coverage Results" MODIFIED="1503724025199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/Python语言的特性_30例" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$test8.coverage" NAME="test8 Coverage Results" MODIFIED="1503497443653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$mm131.coverage" NAME="mm131 Coverage Results" MODIFIED="1503648436461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$4_.coverage" NAME="4.类变量和实例变量 Coverage Results" MODIFIED="1503724562474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/Python语言的特性_30例" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$test12_HTTPBasicAuthHandler.coverage" NAME="test12_HTTPBasicAuthHandler Coverage Results" MODIFIED="1503550098048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$test15_baidu_cookiesave.coverage" NAME="test15_baidu_cookiesave Coverage Results" MODIFIED="1503568590311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$10_args_and_kwargs.coverage" NAME="10.args and kwargs Coverage Results" MODIFIED="1503737710109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/Python语言的特性_30例" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$1__.coverage" NAME="1.台阶问题_斐波纳挈 Coverage Results" MODIFIED="1503838054003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/7.编程题——22例" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$test5_tieba.coverage" NAME="test5_tieba Coverage Results" MODIFIED="1503494294417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$8___format.coverage" NAME="8.字符串格式化%和.format Coverage Results" MODIFIED="1503737038856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/Python语言的特性_30例" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$16_.coverage" NAME="16.单例模式 Coverage Results" MODIFIED="1503745319297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/Python语言的特性_30例" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1503495521336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$15___new____init__.coverage" NAME="15.__new__和__init__的区别 Coverage Results" MODIFIED="1503740142765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/Python语言的特性_30例" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$3_.coverage" NAME="3.矩形覆盖 Coverage Results" MODIFIED="1503838998667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/7.编程题——22例" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$test14_baidu_cookie.coverage" NAME="test14_baidu_cookie Coverage Results" MODIFIED="1503568207124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$test13_Cookie.coverage" NAME="test13_Cookie Coverage Results" MODIFIED="1503550492868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$huputest.coverage" NAME="huputest Coverage Results" MODIFIED="1503719058632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hupu_Test" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$test9_Handler_opener.coverage" NAME="test9_Handler_opener Coverage Results" MODIFIED="1503498468872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$17_C10k.coverage" NAME="17.C10k问题 Coverage Results" MODIFIED="1503830232224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/4.网络——21例" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1503492881610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$re_match.coverage" NAME="re_match Coverage Results" MODIFIED="1503626062676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reDemo" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$re_findall.coverage" NAME="re_findall Coverage Results" MODIFIED="1503627265621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reDemo" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$1_Python.coverage" NAME="1.Python的函数参数传递 Coverage Results" MODIFIED="1503721722021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/Python语言的特性_30例" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$test11_ProxyBasicAuthHandler.coverage" NAME="test11_ProxyBasicAuthHandler Coverage Results" MODIFIED="1503546853204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$3_request_post.coverage" NAME="3.request_post Coverage Results" MODIFIED="1503572046302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requestdemo" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$test17_HTTPError_URLError.coverage" NAME="test17_HTTPError_URLError Coverage Results" MODIFIED="1503569915086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$re_.coverage" NAME="re_匹配中文 Coverage Results" MODIFIED="1503634906838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redemo" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$22_Python.coverage" NAME="22.Python函数式编程 Coverage Results" MODIFIED="1503801355231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/Python语言的特性_30例" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$request_get.coverage" NAME="request_get Coverage Results" MODIFIED="1503570450337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requestdemo" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1503492221142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$test9_opener.coverage" NAME="test9_opener Coverage Results" MODIFIED="1503498183803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$test10_ProxyHandler.coverage" NAME="test10_ProxyHandler Coverage Results" MODIFIED="1503548495051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$7Python.coverage" NAME="7Python中单下划线和双下划线 Coverage Results" MODIFIED="1503892247472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/1.Python语言的特性——30例" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$28_Python23.coverage" NAME="28.Python2和3的区别 Coverage Results" MODIFIED="1503805957714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/Python语言的特性_30例" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1503492772359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$10_.coverage" NAME="10 二分查找 Coverage Results" MODIFIED="1503842103243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/7.编程题——22例" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$23_Python.coverage" NAME="23.Python里的拷贝 Coverage Results" MODIFIED="1503801589629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/Python语言的特性_30例" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$test4_get.coverage" NAME="test4_get Coverage Results" MODIFIED="1503493147733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$re_finditer.coverage" NAME="re_finditer Coverage Results" MODIFIED="1503627344721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reDemo" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$21_lambda.coverage" NAME="21.lambda函数 Coverage Results" MODIFIED="1503800496646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/Python语言的特性_30例" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$test8.coverage" NAME="test8 Coverage Results" MODIFIED="1503497443653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$1__.coverage" NAME="1.台阶问题_斐波纳挈 Coverage Results" MODIFIED="1503838054003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/7.编程题——22例" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$test5_tieba.coverage" NAME="test5_tieba Coverage Results" MODIFIED="1503494294417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$16_.coverage" NAME="16.单例模式 Coverage Results" MODIFIED="1503745319297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/Python语言的特性_30例" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$15___new____init__.coverage" NAME="15.__new__和__init__的区别 Coverage Results" MODIFIED="1503740142765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/Python语言的特性_30例" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$test14_baidu_cookie.coverage" NAME="test14_baidu_cookie Coverage Results" MODIFIED="1503568207124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$huputest.coverage" NAME="huputest Coverage Results" MODIFIED="1503719058632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hupu_Test" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1503492881610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$re_findall.coverage" NAME="re_findall Coverage Results" MODIFIED="1503627265621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reDemo" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$xici.coverage" NAME="xici Coverage Results" MODIFIED="1505048898998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$test11_ProxyBasicAuthHandler.coverage" NAME="test11_ProxyBasicAuthHandler Coverage Results" MODIFIED="1503546853204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
+    <SUITE FILE_PATH="coverage/CrawlerDemo$3_request_post.coverage" NAME="3.request_post Coverage Results" MODIFIED="1503572046302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requestdemo" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$4_request_proxies.coverage" NAME="4.request_proxies Coverage Results" MODIFIED="1503572646517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requestdemo" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$5_request_cookie_sission_https.coverage" NAME="5.request_cookie_sission_https Coverage Results" MODIFIED="1503573604029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requestdemo" />
     <SUITE FILE_PATH="coverage/CrawlerDemo$5_.coverage" NAME="5.去除列表中的重复元素 Coverage Results" MODIFIED="1503841172455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python面试题/7.编程题——22例" />
-    <SUITE FILE_PATH="coverage/CrawlerDemo$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1503492221142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib2demo" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="9.迭代器和生成器.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python面试题/1.Python语言的特性——30例/9.迭代器和生成器.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="14.新式类和旧式类.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python面试题/1.Python语言的特性——30例/14.新式类和旧式类.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="17.Python中的作用域.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python面试题/1.Python语言的特性——30例/17.Python中的作用域.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="21.lambda函数.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python面试题/1.Python语言的特性——30例/21.lambda函数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
+            <state relative-caret-position="203">
               <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               <folding />
             </state>
@@ -105,8 +82,8 @@
       <file leaf-file-name="4.request_proxies_私密代理_web客户端验证.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requestdemo/4.request_proxies_私密代理_web客户端验证.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="725">
+              <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -115,7 +92,7 @@
       <file leaf-file-name="5.request_cookie_sission_https.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requestdemo/5.request_cookie_sission_https.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1729">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -135,28 +112,64 @@
       <file leaf-file-name="2.request_addheader.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requestdemo/2.request_addheader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="348">
+              <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.request_get.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1.request_get.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requestdemo/1.request_get.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="435">
+              <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="7Python中单下划线和双下划线.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python面试题/1.Python语言的特性——30例/7Python中单下划线和双下划线.py">
+      <file leaf-file-name="xici.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/proxy/xici.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            <state relative-caret-position="66">
+              <caret line="147" column="15" lean-forward="true" selection-start-line="147" selection-start-column="15" selection-end-line="147" selection-end-column="15" />
+              <folding>
+                <element signature="e#14#29#0" expanded="true" />
+                <marker date="1505048898919" expanded="true" signature="2486:2700" ph="INSERT INTO `xici`... " />
+                <marker date="1505048898919" expanded="true" signature="2486:2727" ph="INSERT INTO `users`... " />
+                <marker date="1505048898919" expanded="true" signature="3487:3507" ph="SELECT * FRO... xici" />
+                <marker date="1505048898919" expanded="true" signature="5043:5063" ph="SELECT * FRO... xici" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="threading.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Python27/Lib/threading.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21083">
+              <caret line="727" column="0" lean-forward="false" selection-start-line="727" selection-start-column="0" selection-end-line="727" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connections.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Python27/Lib/site-packages/pymysql/connections.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19314">
+              <caret line="686" column="27" lean-forward="false" selection-start-line="686" selection-start-column="27" selection-end-line="686" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cursors.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Python27/Lib/site-packages/pymysql/cursors.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9135">
+              <caret line="321" column="0" lean-forward="false" selection-start-line="321" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -177,12 +190,18 @@
       <find>gbk</find>
       <find>&lt;div class=&quot;f18 mb20&quot;&gt;</find>
       <find>baseUrl</find>
+      <find>&lt;table id=&quot;ip_list&quot;&gt;</find>
+      <find>&lt;div class=&quot;main&quot;&gt;</find>
+      <find>all</find>
+      <find>fetchone</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python面试题/3.数据库——6例/6.MyISAM和InnoDB.py" />
         <option value="$PROJECT_DIR$/Python面试题/4.网络——21例/1.三次握手.py" />
         <option value="$PROJECT_DIR$/Python面试题/4.网络——21例/2.四次挥手.py" />
         <option value="$PROJECT_DIR$/Python面试题/4.网络——21例/3.ARP协议.py" />
@@ -233,6 +252,7 @@
         <option value="$PROJECT_DIR$/Python面试题/7.编程题——22例/19 两个字符串是否是变位词.py" />
         <option value="$PROJECT_DIR$/Python面试题/1.Python语言的特性——30例/11.面向切面编程AOP和装饰器.py" />
         <option value="$PROJECT_DIR$/Python面试题/1.Python语言的特性——30例/7Python中单下划线和双下划线.py" />
+        <option value="$PROJECT_DIR$/proxy/xici.py" />
       </list>
     </option>
   </component>
@@ -243,11 +263,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="622" />
-    <option name="y" value="296" />
-    <option name="width" value="1378" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -263,6 +284,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="CrawlerDemo">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -275,19 +311,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CrawlerDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="CrawlerDemo">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CrawlerDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="requestdemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CrawlerDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CrawlerDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -321,26 +370,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.7Python中单下划线和双下划线">
-    <configuration default="false" name="3.矩形覆盖" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python面试题/7.编程题——22例" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CrawlerDemo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python面试题/7.编程题——22例/3.矩形覆盖.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.xici">
     <configuration default="false" name="5.去除列表中的重复元素" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -412,6 +442,25 @@
       <module name="CrawlerDemo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python面试题/1.Python语言的特性——30例/7Python中单下划线和双下划线.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="xici" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proxy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CrawlerDemo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proxy/xici.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -566,19 +615,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.3.矩形覆盖" />
-      <item index="1" class="java.lang.String" itemvalue="Python.5.去除列表中的重复元素" />
-      <item index="2" class="java.lang.String" itemvalue="Python.10 二分查找" />
-      <item index="3" class="java.lang.String" itemvalue="Python.19 两个字符串是否是变位词" />
-      <item index="4" class="java.lang.String" itemvalue="Python.7Python中单下划线和双下划线" />
+      <item index="0" class="java.lang.String" itemvalue="Python.5.去除列表中的重复元素" />
+      <item index="1" class="java.lang.String" itemvalue="Python.10 二分查找" />
+      <item index="2" class="java.lang.String" itemvalue="Python.19 两个字符串是否是变位词" />
+      <item index="3" class="java.lang.String" itemvalue="Python.7Python中单下划线和双下划线" />
+      <item index="4" class="java.lang.String" itemvalue="Python.xici" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.7Python中单下划线和双下划线" />
-        <item index="1" class="java.lang.String" itemvalue="Python.19 两个字符串是否是变位词" />
-        <item index="2" class="java.lang.String" itemvalue="Python.10 二分查找" />
-        <item index="3" class="java.lang.String" itemvalue="Python.5.去除列表中的重复元素" />
-        <item index="4" class="java.lang.String" itemvalue="Python.3.矩形覆盖" />
+        <item index="0" class="java.lang.String" itemvalue="Python.xici" />
+        <item index="1" class="java.lang.String" itemvalue="Python.7Python中单下划线和双下划线" />
+        <item index="2" class="java.lang.String" itemvalue="Python.19 两个字符串是否是变位词" />
+        <item index="3" class="java.lang.String" itemvalue="Python.10 二分查找" />
+        <item index="4" class="java.lang.String" itemvalue="Python.5.去除列表中的重复元素" />
       </list>
     </recent_temporary>
   </component>
@@ -608,21 +657,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="622" y="296" width="1378" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.50907713" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5442623" sideWeight="0.49092284" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.502455" sideWeight="0.49092284" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35214627" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23292868" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2322239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Translate" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -639,6 +689,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add xici" />
+    <option name="LAST_COMMIT_MESSAGE" value="add xici" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="1" />
@@ -646,41 +700,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python面试题/7.编程题——22例/11 快排.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python面试题/7.编程题——22例/12 找零问题.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python面试题/7.编程题——22例/13 广度遍历和深度遍历二叉树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python面试题/7.编程题——22例/14 前中后序遍历.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python面试题/7.编程题——22例/15求最大树深.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python面试题/7.编程题——22例/16 求两棵树是否相同.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
@@ -895,7 +914,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
           <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -903,7 +921,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -911,7 +928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -919,7 +935,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -927,7 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -935,7 +949,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -943,7 +956,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -951,7 +963,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -959,38 +970,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hupu_Test/huputest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/hupu_Test/huputest.py" />
     <entry file="file://$PROJECT_DIR$/Python面试题/1.Python语言的特性——30例/21.lambda函数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
+        <state relative-caret-position="203">
           <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requestdemo/5.request_cookie_sission_https.py">
+    <entry file="file://$PROJECT_DIR$/requestdemo/1.request_get.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1729">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="435">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requestdemo/4.request_proxies_私密代理_web客户端验证.py">
+    <entry file="file://C:/Python27/Lib/site-packages/pymysql/cursors.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="9135">
+          <caret line="321" column="0" lean-forward="false" selection-start-line="321" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/scrapy/http/request/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="85" column="8" lean-forward="false" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19314">
+          <caret line="686" column="27" lean-forward="false" selection-start-line="686" selection-start-column="27" selection-end-line="686" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -1005,17 +1023,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/requestdemo/2.request_addheader.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requestdemo/5.request_cookie_sission_https.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requestdemo/1.request_get.py">
+    <entry file="file://$PROJECT_DIR$/requestdemo/4.request_proxies_私密代理_web客户端验证.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="725">
+          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21083">
+          <caret line="727" column="0" lean-forward="false" selection-start-line="727" selection-start-column="0" selection-end-line="727" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/xici.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="147" column="15" lean-forward="true" selection-start-line="147" selection-start-column="15" selection-end-line="147" selection-end-column="15" />
+          <folding>
+            <element signature="e#14#29#0" expanded="true" />
+            <marker date="1505048898919" expanded="true" signature="2486:2700" ph="INSERT INTO `xici`... " />
+            <marker date="1505048898919" expanded="true" signature="2486:2727" ph="INSERT INTO `users`... " />
+            <marker date="1505048898919" expanded="true" signature="3487:3507" ph="SELECT * FRO... xici" />
+            <marker date="1505048898919" expanded="true" signature="5043:5063" ph="SELECT * FRO... xici" />
+          </folding>
         </state>
       </provider>
     </entry>
